@@ -1,0 +1,4 @@
+SHELL:/bin/bash
+GROUP:100
+HOME:/home
+SKEL:/etc/skel
